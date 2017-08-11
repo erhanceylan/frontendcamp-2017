@@ -1,0 +1,23 @@
+{
+  "name": "frontendcamp-2017",
+  "version": "1.0.0",
+  "description": "a basic read....",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erhanceylan/frontendcamp-2017.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erhanceylan/frontendcamp-2017/issues"
+  },
+  "homepage": "https://github.com/erhanceylan/frontendcamp-2017#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "nunjucks": "^3.0.1"
+  }
+}
